@@ -1,7 +1,7 @@
-Step 1: Go to My Computer --> C drive --> xampp or wampp folder --> htdocs
-Step 2: Extract the BookStack file to C:/xampp/htdocs
-Step 3: Import the database at phpmyadmin
-Step 4: Open Browser -- type localhost/Bookstack to access the home page
+ 1. Go to My Computer --> C drive --> xampp or wampp folder --> htdocs
+ 2. Extract the BookStack file to C:/xampp/htdocs
+ 3. Import the database at phpmyadmin
+ 4. Open Browser -- type localhost/Bookstack to access the home page
 ---------------------------------------------------------------------------------------
 Git Command to clone the file to your local computer at your local directory
 1. cd [your desired directory]
